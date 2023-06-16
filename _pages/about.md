@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 Hi there, I am a 4th year PhD candidate (expected to graduate by Aug 2023) in the Institute of Data Science at the National University of Singapore, where I study machine learning for speech processing problems with my supervisor Prof. [Haizhou Li](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en&oi=ao). During my PhD, I have also conducted research at Mitsubishi Electric Research Laboratories (MERL) with Dr. [Jonathan Le Roux](https://scholar.google.com/citations?user=aUpxty8AAAAJ&hl=en&oi=ao) and the University of Bremen with Prof. [Tanja Schultz](https://scholar.google.com/citations?user=CupDmmcAAAAJ&hl=en&oi=ao). 
 
 
+My current research focuses on ...
+
 
 Besides research, I love...
 
