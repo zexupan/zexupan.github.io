@@ -10,6 +10,16 @@ profile:
   address: >
     <p align="center"> <font size=10> Zexu Pan </p>
     <p align="center"> <font size=6> 潘泽煦 </p>
+    <p align="center">
+    	<ul>
+    		<a href="https://twitter.com/panzexu"><i class="fa-brands fa-twitter  ai-3x"></i></a>
+    		<a href="https://www.instagram.com/pan_zexu/"><i class="fa-brands fa-instagram  ai-3x"></i></a>
+    		<a href="https://scholar.google.gr/citations?user=GGIBU74AAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai-3x"></i></a>
+    		<a href="https://www.linkedin.com/in/panzexu0uav/"><i class="fa-brands fa-linkedin  ai-3x"></i></a>
+    		<a href="https://github.com/zexupan"><i class="fa-brands fa-github  ai-3x"></i></a>
+    		<a href="./files/academic_cv_etzinis.pdf"><i class="ai ai-cv ai-3x"></i></a>
+    	</ul>
+    </p>
 
 
 news: false  # includes a list of news items
@@ -18,7 +28,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I am a 4th year PhD candidate (expected to graduate by Aug 2023) in the Institute of Data Science at the National University of Singapore, where I study machine learning for speech processing problems with my supervisor Prof. [Haizhou Li](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en&oi=ao). During my PhD, I have also conducted research at Mitsubishi Electric Research Laboratories (MERL) with Dr. [Jonathan Le Roux](https://scholar.google.com/citations?user=aUpxty8AAAAJ&hl=en&oi=ao) and the University of Bremen with Prof. [Tanja Schultz](https://scholar.google.com/citations?user=CupDmmcAAAAJ&hl=en&oi=ao). 
+Hi there! I am a 4th year PhD candidate (expected to graduate by Aug 2023) in the Institute of Data Science at the National University of Singapore, where I study machine learning for speech processing problems with my supervisor Prof. [Haizhou Li](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en&oi=ao). During my PhD, I have also conducted research at Mitsubishi Electric Research Laboratories (MERL) with Dr. [Jonathan Le Roux](https://scholar.google.com/citations?user=aUpxty8AAAAJ&hl=en&oi=ao) and the University of Bremen with Prof. [Tanja Schultz](https://scholar.google.com/citations?user=CupDmmcAAAAJ&hl=en&oi=ao). 
 
 
 My current research focuses on ...

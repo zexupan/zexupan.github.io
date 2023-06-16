@@ -7,6 +7,9 @@ first_name: Zexu
 middle_name: 
 last_name: Pan
 email: xu325504@hotmail.com
+scholar_userid: edfe
+github_username: zexupan
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My website
 #footer_text: >
