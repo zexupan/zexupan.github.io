@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I am a 4th year PhD candidate (expected to graduate by Aug 2023) in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) and the [Human Language Technology Laboratory](https://cde.nus.edu.sg/ece/hlt/) at the [National University of Singapore](https://nus.edu.sg/).
+Hi there, I am a 4th year PhD candidate (expected to graduate by Aug 2023) in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) at the [National University of Singapore](https://nus.edu.sg/), where I study machine learning for speech processing problems with my supervisor Prof. [Haizhou Li](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en&oi=ao).
 
 <!-- This is some random text -- this should change frontend. We have changedfdsfsf
 
