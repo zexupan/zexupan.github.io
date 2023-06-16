@@ -10,16 +10,7 @@ profile:
   address: >
     <p align="center"> <font size=10> Zexu Pan </p>
     <p align="center"> <font size=6> 潘泽煦 </p>
-    <p align="center">
-    	<ul>
-    		<a href="https://twitter.com/panzexu"><i class="fa-brands fa-twitter  ai-3x"></i></a>
-    		<a href="https://www.instagram.com/pan_zexu/"><i class="fa-brands fa-instagram  ai-3x"></i></a>
-    		<a href="https://scholar.google.gr/citations?user=GGIBU74AAAAJ&hl=en&oi=ao"><i class="ai ai-google-scholar-square ai-3x"></i></a>
-    		<a href="https://www.linkedin.com/in/panzexu0uav/"><i class="fa-brands fa-linkedin  ai-3x"></i></a>
-    		<a href="https://github.com/zexupan"><i class="fa-brands fa-github  ai-3x"></i></a>
-    		<a href="./files/academic_cv_etzinis.pdf"><i class="ai ai-cv ai-3x"></i></a>
-    	</ul>
-    </p>
+
 
 
 news: false  # includes a list of news items
