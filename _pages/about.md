@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there, I am a 4th year PhD candidate (expected to graduate by Aug 2023) in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) at the [National University of Singapore](https://nus.edu.sg/), where I study machine learning for speech processing problems with my supervisor Prof. [Haizhou Li](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en&oi=ao).
+Hi there, I am a 4th year PhD candidate (expected to graduate by Aug 2023) in the [Institute of Data Science (IDS)](https://ids.nus.edu.sg/) at the [National University of Singapore](https://nus.edu.sg/), where I study machine learning for speech processing problems with my supervisor Prof. [Haizhou Li](https://scholar.google.com/citations?user=z8_x7C8AAAAJ&hl=en&oi=ao). During my PhD, I have also conducted research at Mitsubishi Electric Research Laboratories (MERL) with [Jonathan Le Roux](https://scholar.google.com/citations?user=aUpxty8AAAAJ&hl=en&oi=ao) and the University of Bremen with [Tanja Schultz](https://scholar.google.com/citations?user=CupDmmcAAAAJ&hl=en&oi=ao). 
 
 <!-- This is some random text -- this should change frontend. We have changedfdsfsf
 
