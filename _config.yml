@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Zexu Pan # the website title (if blank, full name will be used instead)
+title: Home # the website title (if blank, full name will be used instead)
 first_name: Zexu
 middle_name: 
 last_name: Pan
 email: xu325504@hotmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My website
-footer_text: >
-  Photos by Zexu Pan.
+#footer_text: >
+#  Photos by Zexu Pan.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -30,7 +30,7 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: dark       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
