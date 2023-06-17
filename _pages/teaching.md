@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Contact Me
-description: Materials for courses you taught. Replace this text with your description.
+description: Coming soon
 nav: true
 nav_order: 5
 ---
