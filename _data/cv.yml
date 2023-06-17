@@ -32,7 +32,6 @@
       year: 2019 - 2023
       description:
         - Institute of Data Science
-        - President's Graduate Fellowship (Integrative science and engineering program Scholarship)
         - Supervised by Prof. <a href="https://scholar.google.com.sg/citations?user=z8_x7C8AAAAJ&hl=en">Haizhou Li</a>
         - title: Research topics
           contents:
@@ -46,7 +45,6 @@
       year: 2015 - 2019
       description:
         - Department of Electrical and Electronics Engineering
-        - NTU Science and Engineering Undergraduate Scholarship
         - Supervised by Prof. <a href="https://scholar.google.com/citations?user=Fmrv3J8AAAAJ&hl=en&oi=ao">Lihua Xie</a>
         - Honours with Highest Distinction (GPA 4.87/5.0)
         - title: Research topics
@@ -98,24 +96,40 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - 2nd Runner up for ActivityNet Challenge at CVPR workshop
+    - year: 2019-2023
+      items:
+        - NUS President's Graduate Fellowship (Integrative science and engineering program Scholarship)
+    - year: 2015-2019
+      items:
+        - NTU Science and Engineering Undergraduate Scholarship
+    - year: 2011-2014
       items: 
-        - Max Planck Medal
+        - Senior Middle 1 Scholarship from Ministry of Education in Singapore
+
 
 - title: Teaching 
   type: time_table
   contents:
-    - title: University Teaching Assistent 
+    - year: 2021-2022
+      title: Undergraduate Teaching Assistent, Singapore
       items: 
         - Introduction to Machine Learning (NUS EE2211)
+    - year: 2019-2021
+      title: Undergraduate Teaching Assistent, Singapore
+      items: 
         - Digital Design (NUS EE2026)
-    - title: Topic 2.
+    - year: 2014-2015
+      title: Primary school teacher, China
       items:
-        - Description 1.
-        - Description 2.
+        - Voluntary teaching in a impoverished countryside school in Anhui Province for 1 semester
+    - year: 2015
+      title: Primary school teacher, China
+      items:
+        - Voluntary teaching in a impoverished countryside school in Henan Province for 1 semester
+
+
 
 
