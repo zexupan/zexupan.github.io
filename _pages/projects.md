@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projects
+title: Life
 permalink: /projects/
 description: Coming soon!
-nav: true
-nav_order: 2
+nav: false
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /teaching/
-# title: Contact Me
+title: Contact Me
 description: Coming soon
-#nav: true
-#nav_order: 5
+nav: false
+nav_order: 5
 ---
 
 social: true  

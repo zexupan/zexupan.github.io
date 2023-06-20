@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description:
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <p align="center">  <font size=6>  Journal articles </font> </p>
 
