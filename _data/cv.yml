@@ -64,34 +64,34 @@
       year: 2023-Now
       description:
         - Working with Dr. <a href="https://www.jonathanleroux.org/">Jonathan LE ROUX</a>
-        - title: Research topics
-          contents:
-            - Speech and audio processing
+        - Speech and audio processing, with a focus on audio-visual and neuro-steered speaker extraction
 
     - title: Visiting Researcher
-      institution: University of Bremen, Germany
+      institution: Cognitive system lab, University of Bremen, Germany
       year: 2023-2023
       description:
         - Hosted by Prof. <a href="https://scholar.google.de/citations?user=CupDmmcAAAAJ&hl=en">Tanja Schultz</a>
-        - title: Research topics
-          contents:
-            - Auditory attention with EEG signals
-            - Neuro-steered speaker extraction
+        - Research on Neuro-steered speaker extraction with EEG signals and more effective online deployment
 
     - title: Research Intern
       institution: Mitsubishi Electric Research Laboratories, Cambridge, United States
       year: 2022-2022
       description:
         - Hosted by Dr. <a href="https://www.jonathanleroux.org/">Jonathan LE ROUX</a>
-        - title: Research topics
-          contents:
-            - Audio-visual speaker diarization
+        - Derive and implement new models and optimization methods for Audio-visual speaker diarization for in-the-wild video recordings.
 
     - title: Intern
       institution: Delta-NTU Cyber Physical Security Laboratory, Singapore
       year: 2018-2018
       description:
-        - Control and automation algorithm for robots
+        - Designing control and automation algorithm for robot arms
+
+    - title: Student researcher
+      institution: NTU Internet of things lab
+      year: 2017-2018
+      description:
+        - Data acquisition and analysis with Millimeter-wave radar for obstacle/target detection and tracking
+        - Designing autonomous obstacle bypass, target tracking, and pursuit algorithm for unmanned aerial vehicle
 
 - title: Honors and Awards
   type: time_table
@@ -117,18 +117,18 @@
       title: Undergraduate Teaching Assistent, Singapore
       items: 
         - Introduction to Machine Learning (NUS EE2211)
-    - year: 2019-2021
+    - year: 2020-2021
       title: Undergraduate Teaching Assistent, Singapore
       items: 
         - Digital Design (NUS EE2026)
     - year: 2014-2015
       title: Primary school teacher, China
       items:
-        - Voluntary teaching in a impoverished countryside school in Anhui Province for 1 semester
+        - Voluntary teaching in an impoverished countryside school in Anhui Province for 1 semester
     - year: 2015
       title: Primary school teacher, China
       items:
-        - Voluntary teaching in a impoverished countryside school in Henan Province for 1 semester
+        - Voluntary teaching in an impoverished countryside school in Henan Province for 1 semester
 
 
 
