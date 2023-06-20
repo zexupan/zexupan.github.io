@@ -8,9 +8,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p align="center"> <font size=10> Zexu Pan </p>
-    <p align="center"> <font size=6> /zɛsuː pæn/ </p>
-    <p align="center"> <font size=6> 潘泽煦 </p>
+    <p align="center"> <font size=10> Zexu Pan </font> </p>
+    <p align="center"> <font size=6> /zɛsuː pæn/ </font> </p>
+    <p align="center"> <font size=6> 潘泽煦 </font> </p>
 
 
 
