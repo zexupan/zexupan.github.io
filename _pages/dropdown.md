@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Life
-nav: true
+nav: false
 nav_order: 6
-dropdown: true
+dropdown: false
 children: 
     - title: Projects
       permalink: /projects/

@@ -7,8 +7,8 @@
       value: Male
     - name: Nationality
       value: Chinese
-    - name: Date of Birth
-      value: 25th June 1994
+    - name: Year of Birth
+      value: 1994
     - name: Email (personal)
       value: xu325504@hotmail.com
     - name: Email (school)
